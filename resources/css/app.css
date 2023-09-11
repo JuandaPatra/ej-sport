@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Foobar-Pro-Black-Oblique";
+    src: url("../../public/fonts/Foobar-Pro-Black-Oblique.woff2");
+
+}
+
+@font-face {
+    font-family: "DelaGothicOne-Regular";
+    src: url("../../public/fonts/DelaGothicOne-Regular.woff2");
+
+}
+
+
+
+@font-face {
+    font-family: "Montserrat-SemiBold";
+    src: url("../../public/fonts/Montserrat-SemiBold.otf");
+
+}
+
+
